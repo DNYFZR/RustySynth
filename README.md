@@ -1,0 +1,3 @@
+<h1 align="center"><b> Rusty Synth 🎹 ⚙ 🔊</b></h1><br>
+
+Little Rust side / study project...
