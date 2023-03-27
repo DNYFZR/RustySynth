@@ -4,6 +4,6 @@
 
 <br>
 
-**Background :** Building some audio components as a way of learning how to audio processing & app development in Rust 🖤
+**Background :** Building some audio components as a way of learning audio processing & app development with Rust 🖤
 
 <br>
