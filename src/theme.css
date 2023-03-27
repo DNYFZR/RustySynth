@@ -5,6 +5,12 @@
     col-between: 1s;
 }
 
+button {
+    width: 90px;
+    height: 90px;
+    background-color: #262a2d;
+}
+
 knob {
     width: 76px;
     height: 76px;
