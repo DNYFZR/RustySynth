@@ -1,9 +1,7 @@
-<h1 align="center"><b> ⏯ Rusty Synth </b></h1><br>
+<h1 align="center"><b> 🎵 Rusty Synth 🎵 </b></h1><br>
 
-**Current state :** new side project ✅ 
+<h4 align="center">Rust Based Audio App</h4>
 
-<br>
+## Plan
 
-**Background :** Building some audio components as a way of learning audio processing & app development with Rust 🖤
-
-<br>
+Coming Soon...
